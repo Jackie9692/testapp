@@ -12,4 +12,5 @@
 "/.idea"
 .mymetadata
 .externalToolBuilders
+/src/main/webapp/WEB-INF/classes/*
 

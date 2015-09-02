@@ -62,6 +62,9 @@
     <buildCommand>
       <name>com.genuitec.eclipse.ast.deploy.core.DeploymentBuilder</name>
     </buildCommand>
+    <buildCommand>
+      <name>org.eclipse.m2e.core.maven2Builder</name>
+    </buildCommand>
   </buildSpec>
   <natures>
     <nature>com.genuitec.eclipse.ast.deploy.core.deploymentnature</nature>
