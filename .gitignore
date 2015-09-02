@@ -10,9 +10,6 @@
 "/target"
 ".idea"
 "/.idea"
-.project
 .mymetadata
 .externalToolBuilders
-target/classes/META-INF
-.classpath
-.settings
+
